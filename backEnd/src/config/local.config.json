@@ -1,0 +1,14 @@
+{
+    "ServerName": "local",
+    "_Local_Port_": 4041,
+    "filepath": "D:\\reportsdump\\",
+    "Database": {
+        "Database": "Mongo",
+        "DatabaseName": "waycool-2-0",
+        "DatabasePort": 27017,
+        "DatabasePass": "",
+        "DatabaseUsername": "",
+        "Protocol": "mongodb://",
+        "Host": "localhost"
+    }
+}
